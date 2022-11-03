@@ -1,0 +1,10 @@
+
+message: "If you use this software, please cite it as below."
+authors:
+  - given-names: "Andreea Elena"
+    family-names: "Bodea"
+    email: "andreea.e.bodea@gmail.com"
+title: "Domain adapted topic modelling for alt-tech social media"
+date-released: 2022-11-06
+repository-code: "https://github.com/andreea-bodea/bachelors-thesis-informatics"
+type: software
