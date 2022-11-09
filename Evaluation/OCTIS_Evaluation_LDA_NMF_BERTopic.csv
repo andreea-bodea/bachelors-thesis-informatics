@@ -1,0 +1,8 @@
+,Topic Coherence NPMI,Topic Coherence CV,Topic Diversity
+LDA,0.0508,0.58,0.87
+NMF,0.042,0.59,0.69
+BERTopic Model 0,0.1269,0.69,0.83
+BERTopic Model 1,0.1537,0.71,0.89
+BERTopic Model 2,0.1269,0.67,0.88
+BERTopic Model 3,0.1203,0.65,0.91
+BERTopic Model 4,0.1251,0.68,0.9
